@@ -1,0 +1,155 @@
+{
+  "MAA": [
+    {
+      "hotel_name": "COURTYARD CHENNAI MARRIOTT",
+      "lat": 13.0135,
+      "lang": 80.2223,
+      "price": "5515.49",
+      "address": "564ANNA SALAI CHENNAI 600018 CHENNAI ",
+      "contact": "91-44-66764000",
+      "URL": "https://media-cdn.tripadvisor.com/media/photo-s/10/00/09/a8/swimming-pool.jpg",
+      "CheckIn": "6am to 1pm",
+      "CheckOut": "8pm to 12pm",
+      "Rating": "4/5",
+      "Amenities": "Swimming Pool, Free Food, Massage Center"
+    },
+    {
+      "hotel_name": "HILTON CHENNAI",
+      "lat": 13.0372,
+      "lang": 80.21212,
+      "price": "8320.00",
+      "address": "124/1 JAWAHARIAL NEHRU SALAI 600 097 CHENNAI ",
+      "contact": "91-44-22255555",
+      "URL": "http://ihg.scene7.com/is/image/ihg/holiday-inn-hotel-and-suites-oakland-2533422671-4x3",
+      "CheckIn": "9am to 2pm",
+      "CheckOut": "8pm to 2am",
+      "Rating": "3/5",
+      "Amenities": "Continental Breakfast, Massage Center, AC"
+    },
+    {
+      "hotel_name": "LEMON TREE HOTEL CHENNAI",
+      "lat": 13.00803,
+      "lang": 80.23426,
+      "price": "4081.17",
+      "address": "72 SARDAR PATEL ROAD,GUINDY 600032 CHENNAI ",
+      "contact": "91 44 44232323",
+      "URL": "http://ihg.scene7.com/is/image/ihg/holiday-inn-hotel-and-suites-oakland-2533422671-4x3",
+      "CheckIn": "6am to 4pm",
+      "CheckOut": "6pm to 10pm",
+      "Rating": "4.5/5",
+      "Amenities": "AC, Swimming Pool, Free Food"
+    }
+  ],
+  "CCU": [
+    {
+      "hotel_name": "SWISSOTEL KOLKATA",
+      "lat": 22.57288,
+      "lang": 88.36417,
+      "price": "6400.00",
+      "address": "CITY CENTER TWO,ACTION AREA 2 D.PLOT NO 11/5 undefined KOLKATA ",
+      "contact": "+91 33 66266666",
+      "URL": "https://www.omnihotels.com/-/media/images/hotels/ausctr/pool/ausctr-omni-austin-hotel-downtown-evening-pool.jpg",
+      "CheckIn": "7am to 12pm",
+      "CheckOut": "7pm to 12pm",
+      "Rating": "4.2/5",
+      "Amenities": "Warm Water for bath, Swimming Pool, Free Food"
+    },
+    {
+      "hotel_name": "SWISSOTEL KOLKATA",
+      "lat": 22.57288,
+      "lang": 88.36417,
+      "price": "6400.00",
+      "address": "CITY CENTER TWO,ACTION AREA 2 D.PLOT NO 11/5 undefined KOLKATA ",
+      "contact": "+91 33 66266666",
+      "URL": "https://www.omnihotels.com/-/media/images/hotels/ausctr/pool/ausctr-omni-austin-hotel-downtown-evening-pool.jpg",
+      "CheckIn": "9am to 2pm",
+      "CheckOut": "7pm to 10pm",
+      "Rating": "3.5/5",
+      "Amenities": "Continental breakfast, AC, Swimming Pool"
+    }
+  ],
+  "AMD": [
+    {
+      "hotel_name": "LEMON TREE HOTEL AHMEDABAD",
+      "lat": 23.02961,
+      "lang": 72.56395,
+      "price": "4041.79",
+      "address": "434 1 MITHAKALI SIX CROSS ROADS,NAVRANGPURA 380006 AHMEDABAD ",
+      "contact": "91 79 44232323",
+      "URL": "http://streamafrica.com/wp-content/uploads/2016/01/hotels-4.jpg",
+      "CheckIn": "10am to 4pm",
+      "CheckOut": "6pm to 10pm",
+      "Rating": "3.9/5",
+      "Amenities": "Meditation Center, AC, Swimming Pool"
+    },
+    {
+      "hotel_name": "LEMON TREE PREMIER THE ATRIUM",
+      "lat": 23.02705,
+      "lang": 72.57661,
+      "price": "4554.81",
+      "address": "TOWARDS KHANPUR,NEAR NEHRU BRIDGE 380001 AHMEDABAD ",
+      "contact": "917925505505",
+      "URL": "http://streamafrica.com/wp-content/uploads/2016/01/hotels-4.jpg",
+      "CheckIn": "9am to 3pm",
+      "CheckOut": "9pm to 3pm",
+      "Rating": "4.6/5",
+      "Amenities": "Swimming Pool, Free Food"
+    }
+  ],
+  "BLR": [
+    {
+      "hotel_name": "LE MERIDIEN BANGALORE",
+      "lat": 12.99029,
+      "lang": 77.58638,
+      "price": "7072.00",
+      "address": "NO 28 SANKEY ROAD,P.B. NO 174 OPPOSITE BANGALORE 560 052 BENGALURU ",
+      "contact": "+91 80 22262233",
+      "URL": "http://streamafrica.com/wp-content/uploads/2016/01/hotels-4.jpg",
+      "CheckIn": "6am to 11am",
+      "CheckOut": "11pm to 3am",
+      "Rating": "4.9/5",
+      "Amenities": "Swimming Pool, Free Food,AC"
+    },
+    {
+      "hotel_name": "LE MERIDIEN BANGALORE",
+      "lat": 12.99029,
+      "lang": 77.58638,
+      "price": "7072.00",
+      "address": "NO 28 SANKEY ROAD,P.B. NO 174 OPPOSITE BANGALORE 560 052 BENGALURU ",
+      "contact": "+91 80 22262233",
+      "URL": "http://streamafrica.com/wp-content/uploads/2016/01/hotels-4.jpg",
+      "CheckIn": "6am to 3pm",
+      "CheckOut": "3pm to 10pm",
+      "Rating": "3/5",
+      "Amenities": "Warm Water for bath, Free Food, Meditation Center"
+    }
+  ],
+  "BOM": [
+    {
+      "hotel_name": "INTERCONTINENTAL MARINE DRIVE",
+      "lat": 18.93385,
+      "lang": 72.82445,
+      "price": "9790.55",
+      "address": "135 MARINE DRIVE 400020 MUMBAI ",
+      "contact": "+91 22 39879999",
+      "URL": "https://media-cdn.tripadvisor.com/media/photo-s/10/00/09/a8/swimming-pool.jpg",
+      "CheckIn": "8am to 1pm",
+      "CheckOut": "8pm to 1am",
+      "Rating": "2.5/5",
+      "Amenities": "Free Food"
+    },
+    {
+      "hotel_name": "INTERCONTINENTAL MARINE DRIVE",
+      "lat": 18.93385,
+      "lang": 72.82445,
+      "price": "9790.55",
+      "address": "135 MARINE DRIVE 400020 MUMBAI ",
+      "contact": "+91 22 39879999",
+      "URL": "https://media-cdn.tripadvisor.com/media/photo-s/10/00/09/a8/swimming-pool.jpg",
+      "CheckIn": "6am to 3pm",
+      "CheckOut": "8pm to 11pm",
+      "Rating": "3.5/5",
+      "Amenities": "Free Food, Meditation Center, Swimming Pool"
+    }
+  ]
+}

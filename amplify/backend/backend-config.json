@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"hotelninja7d2f4ac0": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "hotel-ninja-dev-20190726184141-authRole",
+            "UnauthRoleArn": "arn:aws:iam::619521365683:role/hotel-ninja-dev-20190726184141-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::619521365683:role/hotel-ninja-dev-20190726184141-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "hotel-ninja-dev-20190726184141-deployment",
+            "UnauthRoleName": "hotel-ninja-dev-20190726184141-unauthRole",
+            "StackName": "hotel-ninja-dev-20190726184141",
+            "StackId": "arn:aws:cloudformation:us-east-1:619521365683:stack/hotel-ninja-dev-20190726184141/eabd3090-afa6-11e9-aa0c-128a65397f5a"
+        },
+        "categories": {
+            "auth": {
+                "hotelninja7d2f4ac0": {}
+            }
+        }
+    }
+}
